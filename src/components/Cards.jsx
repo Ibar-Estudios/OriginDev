@@ -10,13 +10,13 @@ export const cardsData = [
     id: 1,
     name: "Karen Sandoval",
     role: "Frontend Dev",
-    img: "/img/Karen.png.jpg",
+    img: "/img/karen.png.jpg",
   },
   {
     id: 2,
     name: "Ibar Caubet",
     role: "Frontend Dev",
-    img: "/img/Ibar.png.jpg",
+    img: "/img/ibar.png.jpg",
   },
   {
     id: 3,
